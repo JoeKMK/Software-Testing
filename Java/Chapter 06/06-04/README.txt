@@ -1,0 +1,1 @@
+The DeleteEvidence.java file belongs inside your project's src folder (as usual). But the cookedBookx.txt file belongs inside your project's root folder. See Chapter 6 for details.
