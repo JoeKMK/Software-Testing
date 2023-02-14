@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19286" started-at="2018-07-16T09:06:22Z" finished-at="2018-07-16T09:06:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19286" started-at="2018-07-16T09:06:22Z" finished-at="2018-07-16T09:06:41Z">
+      <class name="navigateToHNjenkins.AT002_NavigateToLoginToMyAccount">
+        <test-method status="PASS" signature="openBrowser()[pri:1, instance:navigateToHNjenkins.AT002_NavigateToLoginToMyAccount@17d0685f]" name="openBrowser" duration-ms="13036" started-at="2018-07-16T09:06:22Z" finished-at="2018-07-16T09:06:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="Accountclick()[pri:2, instance:navigateToHNjenkins.AT002_NavigateToLoginToMyAccount@17d0685f]" name="Accountclick" duration-ms="2379" started-at="2018-07-16T09:06:35Z" finished-at="2018-07-16T09:06:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Accountclick -->
+        <test-method status="PASS" signature="CreateAnAccount()[pri:3, instance:navigateToHNjenkins.AT002_NavigateToLoginToMyAccount@17d0685f]" name="CreateAnAccount" duration-ms="1287" started-at="2018-07-16T09:06:37Z" finished-at="2018-07-16T09:06:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAnAccount -->
+        <test-method status="PASS" signature="firstName()[pri:4, instance:navigateToHNjenkins.AT002_NavigateToLoginToMyAccount@17d0685f]" name="firstName" duration-ms="383" started-at="2018-07-16T09:06:39Z" finished-at="2018-07-16T09:06:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstName -->
+        <test-method status="PASS" signature="lastName()[pri:5, instance:navigateToHNjenkins.AT002_NavigateToLoginToMyAccount@17d0685f]" name="lastName" duration-ms="168" started-at="2018-07-16T09:06:39Z" finished-at="2018-07-16T09:06:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastName -->
+        <test-method status="PASS" signature="emailAddress()[pri:6, instance:navigateToHNjenkins.AT002_NavigateToLoginToMyAccount@17d0685f]" name="emailAddress" duration-ms="267" started-at="2018-07-16T09:06:39Z" finished-at="2018-07-16T09:06:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailAddress -->
+        <test-method status="PASS" signature="password()[pri:7, instance:navigateToHNjenkins.AT002_NavigateToLoginToMyAccount@17d0685f]" name="password" duration-ms="149" started-at="2018-07-16T09:06:39Z" finished-at="2018-07-16T09:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- password -->
+        <test-method status="PASS" signature="reenterPassword()[pri:8, instance:navigateToHNjenkins.AT002_NavigateToLoginToMyAccount@17d0685f]" name="reenterPassword" duration-ms="105" started-at="2018-07-16T09:06:40Z" finished-at="2018-07-16T09:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reenterPassword -->
+        <test-method status="PASS" signature="checkBox()[pri:9, instance:navigateToHNjenkins.AT002_NavigateToLoginToMyAccount@17d0685f]" name="checkBox" duration-ms="102" started-at="2018-07-16T09:06:40Z" finished-at="2018-07-16T09:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBox -->
+        <test-method status="PASS" signature="submitButton()[pri:10, instance:navigateToHNjenkins.AT002_NavigateToLoginToMyAccount@17d0685f]" name="submitButton" duration-ms="1339" started-at="2018-07-16T09:06:40Z" finished-at="2018-07-16T09:06:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitButton -->
+      </class> <!-- navigateToHNjenkins.AT002_NavigateToLoginToMyAccount -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
