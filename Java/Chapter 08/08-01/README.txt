@@ -1,0 +1,1 @@
+The DoPayroll.java and Employee.java files belong inside your project's src/com/example/payroll folder. (Your IDE will put the .java files there automatically if you put them inside a com.example.payroll package.) But the EmployeeInfo.txt file belongs inside your project's root folder. See Chapter 8 for details.
